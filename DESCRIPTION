@@ -1,0 +1,14 @@
+Package: testpackage
+Title: This Is A Package That Tests How Packages Are Created In R Programming
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "David",
+           family = "Olmos",
+           role = c("aut", "cre"),
+           email = "davidcortiol@yahoo.es",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The package does very little.
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
